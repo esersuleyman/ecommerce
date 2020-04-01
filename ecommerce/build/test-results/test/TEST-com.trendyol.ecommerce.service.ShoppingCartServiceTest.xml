@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.trendyol.ecommerce.service.ShoppingCartServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-31T16:12:01" hostname="DESKTOP-F2CKO2D" time="0.123">
+  <properties/>
+  <testcase name="testModel" classname="com.trendyol.ecommerce.service.ShoppingCartServiceTest" time="0.123"/>
+  <system-out><![CDATA[Category name: food, Product name: Apple, Quantity: 4, Unit Price: 100.0, Total Price: 400.0
+Category name: food, Product name: Almonds, Quantity: 6, Unit Price: 150.0, Total Price: 900.0
+Category name: food, Product name: Banana, Quantity: 1, Unit Price: 40.0, Total Price: 40.0
+Total Campaign discount: 530.0, Total Coupon discount: 81.0
+Total Amount: 729.0, Total Delivery Cost: 6.5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
